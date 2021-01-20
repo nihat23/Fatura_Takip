@@ -1,0 +1,10 @@
+D:\VB\Fatura Takip\bin\Debug\Fatura Takip.exe.config
+D:\VB\Fatura Takip\bin\Debug\Fatura Takip.exe
+D:\VB\Fatura Takip\bin\Debug\Fatura Takip.pdb
+D:\VB\Fatura Takip\obj\Debug\Fatura Takip.csprojAssemblyReference.cache
+D:\VB\Fatura Takip\obj\Debug\Fatura_Takip.Properties.Resources.resources
+D:\VB\Fatura Takip\obj\Debug\Fatura Takip.csproj.GenerateResource.cache
+D:\VB\Fatura Takip\obj\Debug\Fatura Takip.csproj.CoreCompileInputs.cache
+D:\VB\Fatura Takip\obj\Debug\Fatura Takip.exe
+D:\VB\Fatura Takip\obj\Debug\Fatura Takip.pdb
+D:\VB\Fatura Takip\obj\Debug\Fatura_Takip.Form1Sil.resources
